@@ -1,4 +1,14 @@
-# Operating-System
+# OS-Project
 
-Basic Operating system based on c and nasm to implement some basic functionality of Operating system like clearing the screen, reversing a string and printing it, implementation of echo command, exit command, and some basic mathematical functionality like factorial, multiplication, square, cube and division. Operating System can be booted using QEMU. OS works on 32bit and have a window size of 500 x 500.
+## Project Proposal
+* The project proposal can be found [here](https://docs.google.com/document/d/17odFVuplMX44I-PldWdqGub3ljlvM29_wX1j4DXOfvU/edit?usp=sharing)
 
+## Abstract
+
+* xv6p implements the whole set of features possible using x86 paging hardware to MIT's xv6.
+ 
+## Team Members
+* Salman Shah
+* Aiman Abdullah
+* Jyoti Prakash
+* Abhishek S.
